@@ -1,0 +1,2774 @@
+[
+  {
+    "id": 1,
+    "name": "Linear",
+    "category": "Project management",
+    "source": "https://linear.app/",
+    "productType": "dashboard",
+    "component": "Issue list, command menu, roadmap",
+    "whyWorks": "Fast keyboard-first workspace with polished density.",
+    "whyFails": "Can feel opaque for non-technical users.",
+    "applicable": "Adopt command palette, status chips, compact module navigation.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "minimal",
+    "module": "Dashboard",
+    "tags": [
+      "dashboard",
+      "navigation",
+      "filters",
+      "settings",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Stripe Dashboard",
+    "category": "Finance / payments",
+    "source": "https://stripe.com/docs/dashboard",
+    "productType": "dashboard",
+    "component": "Financial dashboard, tables, detail pages",
+    "whyWorks": "Excellent information hierarchy and searchable object model.",
+    "whyFails": "High density may overwhelm new sellers.",
+    "applicable": "Use clear object pages for orders, payments, customers.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "clean",
+    "module": "Ventes",
+    "tags": [
+      "dashboard",
+      "tableau",
+      "filtres",
+      "finance",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 3,
+    "name": "GitHub",
+    "category": "Developer platform",
+    "source": "https://github.com/features",
+    "productType": "navigation",
+    "component": "Repository navigation, issues, pull requests",
+    "whyWorks": "Deep product remains navigable through consistent tabs and states.",
+    "whyFails": "Terminology is domain-specific.",
+    "applicable": "Use stable tabs across product/customer/order detail pages.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "neutral",
+    "module": "Navigation",
+    "tags": [
+      "navigation",
+      "tableau",
+      "settings",
+      "états vides"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Vercel Dashboard",
+    "category": "Cloud platform",
+    "source": "https://vercel.com/dashboard",
+    "productType": "dashboard",
+    "component": "Deployment cards, project overview, logs",
+    "whyWorks": "Calm dashboard with strong empty states and progressive disclosure.",
+    "whyFails": "Black/white aesthetic can hide priorities if overused.",
+    "applicable": "Adopt project cards and deployment timeline patterns for imports/sync.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "minimal",
+    "module": "Dashboard",
+    "tags": [
+      "dashboard",
+      "cards",
+      "onboarding",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Shopify Admin",
+    "category": "E-commerce admin",
+    "source": "https://www.shopify.com/admin",
+    "productType": "sales",
+    "component": "Orders, products, inventory, analytics",
+    "whyWorks": "Best-in-class merchant workflows across desktop and mobile.",
+    "whyFails": "Feature breadth can create navigation overload.",
+    "applicable": "Model inventory, products, channels and analytics organization.",
+    "device": "both",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Ventes",
+    "tags": [
+      "stock",
+      "ventes",
+      "dashboard",
+      "mobile",
+      "settings"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Square Dashboard",
+    "category": "POS / commerce",
+    "source": "https://squareup.com/us/en/point-of-sale",
+    "productType": "sales",
+    "component": "POS dashboard, catalog, reporting",
+    "whyWorks": "Seller-first language and strong transactional flows.",
+    "whyFails": "Marketing screenshots sometimes simplify real complexity.",
+    "applicable": "Use action-oriented sales and payment summaries.",
+    "device": "both",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "KPI",
+      "mobile",
+      "rapports"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Lightspeed Retail",
+    "category": "Retail POS / inventory",
+    "source": "https://www.lightspeedhq.com/pos/retail/",
+    "productType": "inventory",
+    "component": "Inventory, POS, purchase orders",
+    "whyWorks": "Retail operations vocabulary maps well to stock control.",
+    "whyFails": "Enterprise UI may be too heavy for small teams.",
+    "applicable": "Borrow purchase order, reorder and multi-location concepts.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "professional",
+    "module": "Stock",
+    "tags": [
+      "stock",
+      "tableau",
+      "filtres",
+      "rapports"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Pennylane",
+    "category": "Accounting / finance",
+    "source": "https://www.pennylane.com/",
+    "productType": "expenses",
+    "component": "Accounting dashboard, invoices, expenses",
+    "whyWorks": "French SMB finance patterns with clear document workflows.",
+    "whyFails": "Finance-specific flows may not map directly to cards.",
+    "applicable": "Use document review queues for expenses and invoices.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "clean",
+    "module": "Dépenses",
+    "tags": [
+      "finance",
+      "dépenses",
+      "tableau",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Revolut Business",
+    "category": "Business banking",
+    "source": "https://www.revolut.com/business/",
+    "productType": "expenses",
+    "component": "Cards, spend controls, approvals",
+    "whyWorks": "Excellent card-based finance management and mobile parity.",
+    "whyFails": "Consumer-like UI can underplay accounting rigor.",
+    "applicable": "Adopt spend cards, limits, approvals and mobile financial summaries.",
+    "device": "both",
+    "density": "medium",
+    "style": "modern",
+    "module": "Dépenses",
+    "tags": [
+      "mobile",
+      "finance",
+      "settings",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Wise Business",
+    "category": "Business banking",
+    "source": "https://wise.com/business/",
+    "productType": "expenses",
+    "component": "International transfers, balances",
+    "whyWorks": "Clear cross-border money movement with transparent fees.",
+    "whyFails": "Narrow financial focus.",
+    "applicable": "Use transparent fee/status breakdowns for purchases and sales.",
+    "device": "both",
+    "density": "medium",
+    "style": "clean",
+    "module": "Dépenses",
+    "tags": [
+      "finance",
+      "mobile",
+      "états vides"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 11,
+    "name": "Ramp",
+    "category": "Spend management",
+    "source": "https://ramp.com/",
+    "productType": "expenses",
+    "component": "Expenses, approvals, cards, accounting sync",
+    "whyWorks": "Strong automation messaging and approval workflows.",
+    "whyFails": "Can feel enterprise-heavy.",
+    "applicable": "Use approval queues and exception-driven expense screens.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "modern",
+    "module": "Dépenses",
+    "tags": [
+      "dépenses",
+      "settings",
+      "tableau",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 12,
+    "name": "Brex",
+    "category": "Spend management",
+    "source": "https://www.brex.com/",
+    "productType": "expenses",
+    "component": "Budgets, cards, expenses",
+    "whyWorks": "Good hierarchy for spend policies and department budgets.",
+    "whyFails": "Many modules could overcomplicate ERP Climax.",
+    "applicable": "Adapt budget controls and policy cards.",
+    "device": "both",
+    "density": "medium",
+    "style": "modern",
+    "module": "Dépenses",
+    "tags": [
+      "dépenses",
+      "mobile",
+      "settings",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 13,
+    "name": "Odoo",
+    "category": "ERP suite",
+    "source": "https://www.odoo.com/app/inventory",
+    "productType": "erp",
+    "component": "Inventory, sales, accounting, CRM",
+    "whyWorks": "Comprehensive modular ERP with app launcher mental model.",
+    "whyFails": "Generic breadth may reduce product personality.",
+    "applicable": "Study module switching and kanban/list/form triad.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "colorful",
+    "module": "Stock",
+    "tags": [
+      "stock",
+      "erp",
+      "navigation",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 14,
+    "name": "ERPNext",
+    "category": "Open-source ERP",
+    "source": "https://erpnext.com/open-source-inventory",
+    "productType": "erp",
+    "component": "Stock ledger, item master, accounting",
+    "whyWorks": "Open-source ERP patterns for serious operational depth.",
+    "whyFails": "Visual polish is less inspirational than SaaS leaders.",
+    "applicable": "Use item master, stock ledger and document lifecycle ideas.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "professional",
+    "module": "Stock",
+    "tags": [
+      "stock",
+      "erp",
+      "tableau",
+      "rapports"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 15,
+    "name": "Retool",
+    "category": "Internal tools",
+    "source": "https://retool.com/",
+    "productType": "table",
+    "component": "Data grids, forms, admin panels",
+    "whyWorks": "Shows how dense operational tools can stay usable.",
+    "whyFails": "Builder UI is not end-user ERP UI.",
+    "applicable": "Use split views, inline actions and data-grid ergonomics.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "technical",
+    "module": "Tableaux",
+    "tags": [
+      "tableau",
+      "filtres",
+      "dashboard",
+      "settings"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 16,
+    "name": "Metabase",
+    "category": "Analytics",
+    "source": "https://www.metabase.com/product/business-intelligence",
+    "productType": "reports",
+    "component": "Dashboards, charts, query builder",
+    "whyWorks": "Accessible analytics with friendly exploration flows.",
+    "whyFails": "Chart-heavy UI can detach from operations.",
+    "applicable": "Use question-based reporting and saved dashboard cards.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Rapports",
+    "tags": [
+      "rapports",
+      "dashboard",
+      "KPI",
+      "filtres"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 17,
+    "name": "Supabase",
+    "category": "Developer platform",
+    "source": "https://supabase.com/dashboard",
+    "productType": "table",
+    "component": "Database tables, auth, storage",
+    "whyWorks": "Clean table tooling and sidebar hierarchy.",
+    "whyFails": "Developer terms may not fit sellers.",
+    "applicable": "Use table browser density for catalog and stock admin.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "technical",
+    "module": "Tableaux",
+    "tags": [
+      "tableau",
+      "settings",
+      "navigation"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 18,
+    "name": "HubSpot",
+    "category": "CRM",
+    "source": "https://www.hubspot.com/products/crm",
+    "productType": "sales",
+    "component": "CRM pipeline, contact records, reporting",
+    "whyWorks": "Excellent CRM object pages and activity timelines.",
+    "whyFails": "Upsell-heavy product surface.",
+    "applicable": "Apply contact/order timeline and pipeline board patterns.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "fiches détail",
+      "rapports",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 19,
+    "name": "Airtable",
+    "category": "Database / workflow",
+    "source": "https://www.airtable.com/product",
+    "productType": "table",
+    "component": "Grid, gallery, forms, automations",
+    "whyWorks": "Flexible views make data feel approachable.",
+    "whyFails": "Too much flexibility can weaken ERP guardrails.",
+    "applicable": "Use saved views: table, gallery, kanban for card database.",
+    "device": "both",
+    "density": "medium",
+    "style": "colorful",
+    "module": "Base cartes",
+    "tags": [
+      "galerie",
+      "tableau",
+      "filtres",
+      "cards",
+      "mobile"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cardmarket",
+    "category": "TCG marketplace",
+    "source": "https://www.cardmarket.com/",
+    "productType": "marketplace",
+    "component": "Listings, pricing, seller tools",
+    "whyWorks": "Domain-specific card selling and price comparison patterns.",
+    "whyFails": "Legacy density and visual inconsistency.",
+    "applicable": "Use card condition, language and marketplace pricing fields.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "marketplace",
+    "module": "Base cartes",
+    "tags": [
+      "stock",
+      "tableau",
+      "filtres",
+      "ventes"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 21,
+    "name": "Collectr",
+    "category": "Collection tracker",
+    "source": "https://www.getcollectr.com/",
+    "productType": "mobile",
+    "component": "Collection value, portfolio cards",
+    "whyWorks": "Strong mobile-first collector portfolio experience.",
+    "whyFails": "Less suited to operational bulk management.",
+    "applicable": "Adopt portfolio value cards and collection trend visuals.",
+    "device": "mobile",
+    "density": "medium",
+    "style": "modern",
+    "module": "Mobile",
+    "tags": [
+      "mobile",
+      "cards",
+      "KPI",
+      "galerie"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 22,
+    "name": "TCGplayer",
+    "category": "TCG marketplace",
+    "source": "https://www.tcgplayer.com/",
+    "productType": "marketplace",
+    "component": "Marketplace listings, price guide, seller portal",
+    "whyWorks": "Massive TCG commerce reference for pricing and listings.",
+    "whyFails": "Consumer marketplace pages are noisy.",
+    "applicable": "Study market price, condition and sales channel flows.",
+    "device": "both",
+    "density": "dense",
+    "style": "marketplace",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "stock",
+      "filtres",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 23,
+    "name": "PriceCharting",
+    "category": "Price database",
+    "source": "https://www.pricecharting.com/",
+    "productType": "analytics",
+    "component": "Price history, comparables, charts",
+    "whyWorks": "Simple but valuable price history and sold listing patterns.",
+    "whyFails": "Visual design is utilitarian.",
+    "applicable": "Use historical price ranges for card valuation.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "utilitarian",
+    "module": "Rapports",
+    "tags": [
+      "KPI",
+      "rapports",
+      "tableau",
+      "filtres"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 24,
+    "name": "Pokécardex",
+    "category": "Pokémon card database",
+    "source": "https://www.pokecardex.com/",
+    "productType": "database",
+    "component": "Card database, set gallery, collection",
+    "whyWorks": "French-language card database and set navigation.",
+    "whyFails": "Community database UI may lack ERP workflows.",
+    "applicable": "Use set/gallery browsing and localized card taxonomy.",
+    "device": "both",
+    "density": "medium",
+    "style": "community",
+    "module": "Base cartes",
+    "tags": [
+      "galerie",
+      "filtres",
+      "mobile",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 25,
+    "name": "Notion",
+    "category": "Workspace",
+    "source": "https://www.notion.so/product",
+    "productType": "settings",
+    "component": "Docs, database views, onboarding",
+    "whyWorks": "Flexible blocks and templates lower startup friction.",
+    "whyFails": "Can become unstructured.",
+    "applicable": "Offer templates for stock, sales and reports.",
+    "device": "both",
+    "density": "medium",
+    "style": "minimal",
+    "module": "Onboarding",
+    "tags": [
+      "onboarding",
+      "settings",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 26,
+    "name": "Figma",
+    "category": "Design collaboration",
+    "source": "https://www.figma.com/",
+    "productType": "navigation",
+    "component": "File browser, properties panels",
+    "whyWorks": "Excellent side panels and collaboration states.",
+    "whyFails": "Professional tool complexity.",
+    "applicable": "Use inspector-like side panels for item detail.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "modern",
+    "module": "Fiches détail",
+    "tags": [
+      "fiches détail",
+      "settings",
+      "navigation"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 27,
+    "name": "Intercom",
+    "category": "Customer support",
+    "source": "https://www.intercom.com/",
+    "productType": "dashboard",
+    "component": "Inbox, customer timeline, automation",
+    "whyWorks": "Great conversation queues and empty states.",
+    "whyFails": "Support metaphors may not map to ERP.",
+    "applicable": "Use inbox pattern for tasks needing attention.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Dashboard",
+    "tags": [
+      "dashboard",
+      "états vides",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 28,
+    "name": "Zendesk",
+    "category": "Support",
+    "source": "https://www.zendesk.com/service/",
+    "productType": "table",
+    "component": "Ticket lists, macros, queues",
+    "whyWorks": "Mature queue management for high-volume operations.",
+    "whyFails": "Enterprise heaviness.",
+    "applicable": "Apply queue filters to orders/imports/issues.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "professional",
+    "module": "Tableaux",
+    "tags": [
+      "tableau",
+      "filtres",
+      "settings"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 29,
+    "name": "Monday.com",
+    "category": "Work management",
+    "source": "https://monday.com/",
+    "productType": "dashboard",
+    "component": "Boards, automations, dashboards",
+    "whyWorks": "Colorful status boards and approachable configuration.",
+    "whyFails": "Color overload possible.",
+    "applicable": "Use readable status colors for lifecycle states.",
+    "device": "both",
+    "density": "medium",
+    "style": "colorful",
+    "module": "Dashboard",
+    "tags": [
+      "dashboard",
+      "tableau",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 30,
+    "name": "Asana",
+    "category": "Project management",
+    "source": "https://asana.com/product",
+    "productType": "navigation",
+    "component": "Lists, boards, goals",
+    "whyWorks": "Clear work tracking and milestones.",
+    "whyFails": "Project metaphors less relevant to inventory.",
+    "applicable": "Adapt task/checklist patterns for onboarding and operations.",
+    "device": "both",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Onboarding",
+    "tags": [
+      "onboarding",
+      "navigation",
+      "états vides"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 31,
+    "name": "ClickUp",
+    "category": "Work management",
+    "source": "https://clickup.com/features",
+    "productType": "dashboard",
+    "component": "Views, docs, dashboards",
+    "whyWorks": "Many view types in one product.",
+    "whyFails": "Can feel overwhelming.",
+    "applicable": "Offer limited but powerful saved views.",
+    "device": "both",
+    "density": "dense",
+    "style": "colorful",
+    "module": "Tableaux",
+    "tags": [
+      "tableau",
+      "dashboard",
+      "filtres"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 32,
+    "name": "Xero",
+    "category": "Accounting",
+    "source": "https://www.xero.com/us/accounting-software/",
+    "productType": "reports",
+    "component": "Accounting dashboard, reconciliation",
+    "whyWorks": "SMB finance dashboard with clear cash flow indicators.",
+    "whyFails": "Accounting jargon.",
+    "applicable": "Use cash flow and reconciliation concepts for expenses.",
+    "device": "both",
+    "density": "medium",
+    "style": "clean",
+    "module": "Dépenses",
+    "tags": [
+      "finance",
+      "rapports",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 33,
+    "name": "QuickBooks",
+    "category": "Accounting",
+    "source": "https://quickbooks.intuit.com/",
+    "productType": "expenses",
+    "component": "Invoices, expenses, reports",
+    "whyWorks": "Strong SMB invoicing and bookkeeping flows.",
+    "whyFails": "Visual clutter from product breadth.",
+    "applicable": "Study invoice lifecycle and expense capture.",
+    "device": "both",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Dépenses",
+    "tags": [
+      "dépenses",
+      "ventes",
+      "rapports"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 34,
+    "name": "Zoho Inventory",
+    "category": "Inventory",
+    "source": "https://www.zoho.com/inventory/",
+    "productType": "inventory",
+    "component": "Inventory orders, warehouses",
+    "whyWorks": "Focused inventory product with sales channel sync.",
+    "whyFails": "Classic SaaS styling.",
+    "applicable": "Use warehouse, reorder and channel sync patterns.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "professional",
+    "module": "Stock",
+    "tags": [
+      "stock",
+      "tableau",
+      "filtres"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 35,
+    "name": "Cin7",
+    "category": "Inventory",
+    "source": "https://www.cin7.com/",
+    "productType": "inventory",
+    "component": "Inventory, orders, B2B, POS",
+    "whyWorks": "Operational inventory depth for commerce teams.",
+    "whyFails": "Enterprise complexity.",
+    "applicable": "Study purchase/sales/order orchestration.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "professional",
+    "module": "Stock",
+    "tags": [
+      "stock",
+      "ventes",
+      "rapports"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 36,
+    "name": "Katana MRP",
+    "category": "Inventory / manufacturing",
+    "source": "https://katanamrp.com/",
+    "productType": "inventory",
+    "component": "Stock, production planning",
+    "whyWorks": "Good visual inventory planning and operations calendars.",
+    "whyFails": "Manufacturing focus may exceed needs.",
+    "applicable": "Use planning views for replenishment.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "modern",
+    "module": "Stock",
+    "tags": [
+      "stock",
+      "dashboard",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 37,
+    "name": "Inventory Planner",
+    "category": "Inventory planning",
+    "source": "https://www.inventory-planner.com/",
+    "productType": "inventory",
+    "component": "Forecasting, replenishment",
+    "whyWorks": "Excellent demand forecasting concepts.",
+    "whyFails": "Analytics may require data maturity.",
+    "applicable": "Use reorder suggestions and forecast confidence.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "clean",
+    "module": "Stock",
+    "tags": [
+      "stock",
+      "rapports",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 38,
+    "name": "Finale Inventory",
+    "category": "Inventory",
+    "source": "https://www.finaleinventory.com/",
+    "productType": "inventory",
+    "component": "Barcode, purchasing, stock control",
+    "whyWorks": "Practical warehouse workflows and barcode operations.",
+    "whyFails": "Less visually refined.",
+    "applicable": "Use barcode and batch action workflows.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "utilitarian",
+    "module": "Stock",
+    "tags": [
+      "stock",
+      "tableau",
+      "filtres"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 39,
+    "name": "Sortly",
+    "category": "Inventory mobile",
+    "source": "https://www.sortly.com/",
+    "productType": "mobile",
+    "component": "Mobile inventory, QR codes",
+    "whyWorks": "Very accessible inventory tracking for small teams.",
+    "whyFails": "May be too simple for ERP depth.",
+    "applicable": "Adopt mobile scanning and visual item cards.",
+    "device": "mobile",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Mobile",
+    "tags": [
+      "mobile",
+      "stock",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 40,
+    "name": "inFlow Inventory",
+    "category": "Inventory",
+    "source": "https://www.inflowinventory.com/",
+    "productType": "inventory",
+    "component": "Stock, orders, barcode",
+    "whyWorks": "SMB inventory patterns with clear order flows.",
+    "whyFails": "Traditional UI feel.",
+    "applicable": "Use purchase/sales order flows.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "professional",
+    "module": "Stock",
+    "tags": [
+      "stock",
+      "ventes",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 41,
+    "name": "ShipStation",
+    "category": "Shipping",
+    "source": "https://www.shipstation.com/",
+    "productType": "sales",
+    "component": "Orders, labels, shipping automation",
+    "whyWorks": "Excellent high-volume order list actions.",
+    "whyFails": "Shipping-specific.",
+    "applicable": "Use bulk order actions and label/status badges.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "professional",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "tableau",
+      "filtres"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 42,
+    "name": "Klaviyo",
+    "category": "Marketing analytics",
+    "source": "https://www.klaviyo.com/",
+    "productType": "reports",
+    "component": "Campaign dashboards, segments",
+    "whyWorks": "Strong segmentation and performance analytics.",
+    "whyFails": "Marketing focus can distract.",
+    "applicable": "Use segment builder inspiration for filters.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "modern",
+    "module": "Rapports",
+    "tags": [
+      "rapports",
+      "filtres",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 43,
+    "name": "Mailchimp",
+    "category": "Marketing",
+    "source": "https://mailchimp.com/",
+    "productType": "onboarding",
+    "component": "Campaign builder, audience dashboard",
+    "whyWorks": "Friendly onboarding and approachable copy.",
+    "whyFails": "Playful style may not fit ERP seriousness.",
+    "applicable": "Use guided setup and human empty states.",
+    "device": "both",
+    "density": "medium",
+    "style": "playful",
+    "module": "Onboarding",
+    "tags": [
+      "onboarding",
+      "états vides",
+      "mobile"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 44,
+    "name": "Google Analytics",
+    "category": "Analytics",
+    "source": "https://marketingplatform.google.com/about/analytics/",
+    "productType": "reports",
+    "component": "Reports, exploration, filters",
+    "whyWorks": "Powerful report navigation and dimensions.",
+    "whyFails": "Can be intimidating.",
+    "applicable": "Use configurable report dimensions with sane defaults.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "technical",
+    "module": "Rapports",
+    "tags": [
+      "rapports",
+      "filtres",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 45,
+    "name": "Looker Studio",
+    "category": "BI",
+    "source": "https://lookerstudio.google.com/",
+    "productType": "reports",
+    "component": "Dashboards, charts",
+    "whyWorks": "Shareable reports and visual layouts.",
+    "whyFails": "Editing mode is complex.",
+    "applicable": "Use report templates and exportable dashboards.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "clean",
+    "module": "Rapports",
+    "tags": [
+      "rapports",
+      "dashboard",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 46,
+    "name": "Tableau",
+    "category": "BI",
+    "source": "https://www.tableau.com/products/our-platform",
+    "productType": "reports",
+    "component": "Interactive dashboards",
+    "whyWorks": "Rich data visualization patterns.",
+    "whyFails": "Too advanced for daily operations.",
+    "applicable": "Use drilldowns and chart annotations selectively.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "professional",
+    "module": "Rapports",
+    "tags": [
+      "rapports",
+      "KPI",
+      "filtres"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 47,
+    "name": "Power BI",
+    "category": "BI",
+    "source": "https://powerbi.microsoft.com/",
+    "productType": "reports",
+    "component": "Business dashboards",
+    "whyWorks": "Enterprise analytics and semantic filters.",
+    "whyFails": "Microsoft density.",
+    "applicable": "Use KPI cards plus drill-through reports.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "professional",
+    "module": "Rapports",
+    "tags": [
+      "rapports",
+      "KPI",
+      "dashboard"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 48,
+    "name": "Mixpanel",
+    "category": "Product analytics",
+    "source": "https://mixpanel.com/",
+    "productType": "analytics",
+    "component": "Funnels, retention, cohorts",
+    "whyWorks": "Excellent event analytics visualizations.",
+    "whyFails": "Product analytics may not map directly.",
+    "applicable": "Use funnel concepts for sales pipeline.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "modern",
+    "module": "Rapports",
+    "tags": [
+      "rapports",
+      "KPI",
+      "filtres"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 49,
+    "name": "Amplitude",
+    "category": "Product analytics",
+    "source": "https://amplitude.com/",
+    "productType": "analytics",
+    "component": "Charts, notebooks, cohorts",
+    "whyWorks": "Strong exploratory analytics UX.",
+    "whyFails": "Terminology can be advanced.",
+    "applicable": "Use cohort/filter builder patterns.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "modern",
+    "module": "Rapports",
+    "tags": [
+      "rapports",
+      "filtres",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 50,
+    "name": "Plaid Dashboard",
+    "category": "Finance API",
+    "source": "https://plaid.com/docs/account/",
+    "productType": "settings",
+    "component": "API dashboard, logs, institution status",
+    "whyWorks": "Clear status, logs and developer settings.",
+    "whyFails": "Developer oriented.",
+    "applicable": "Use sync status and connection health panels.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "technical",
+    "module": "Paramètres",
+    "tags": [
+      "settings",
+      "dashboard",
+      "états vides"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 51,
+    "name": "Mercury",
+    "category": "Business banking",
+    "source": "https://mercury.com/",
+    "productType": "finance",
+    "component": "Accounts, cards, transfers",
+    "whyWorks": "Elegant business banking UI and transaction search.",
+    "whyFails": "US banking specificity.",
+    "applicable": "Use transaction list clarity and account cards.",
+    "device": "both",
+    "density": "medium",
+    "style": "minimal",
+    "module": "Dépenses",
+    "tags": [
+      "finance",
+      "mobile",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 52,
+    "name": "Qonto",
+    "category": "Business finance",
+    "source": "https://qonto.com/",
+    "productType": "expenses",
+    "component": "Cards, invoices, expenses",
+    "whyWorks": "European SMB finance workflows and mobile-first cards.",
+    "whyFails": "Banking focus.",
+    "applicable": "Adapt receipt collection and team spend controls.",
+    "device": "both",
+    "density": "medium",
+    "style": "modern",
+    "module": "Dépenses",
+    "tags": [
+      "dépenses",
+      "mobile",
+      "settings"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 53,
+    "name": "Mollie Dashboard",
+    "category": "Payments",
+    "source": "https://www.mollie.com/products/dashboard",
+    "productType": "finance",
+    "component": "Payments dashboard, reporting",
+    "whyWorks": "Clean European payment operations UI.",
+    "whyFails": "Payment-specific.",
+    "applicable": "Use payment status tables and filters.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "clean",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "finance",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 54,
+    "name": "Adyen",
+    "category": "Payments",
+    "source": "https://www.adyen.com/",
+    "productType": "finance",
+    "component": "Payments, risk, reports",
+    "whyWorks": "Enterprise payment operations depth.",
+    "whyFails": "Can be too complex.",
+    "applicable": "Use risk/status breakdowns for transactions.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "professional",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "rapports",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 55,
+    "name": "PayPal Business",
+    "category": "Payments",
+    "source": "https://www.paypal.com/us/business",
+    "productType": "sales",
+    "component": "Payments, invoices, activity",
+    "whyWorks": "Familiar activity feed and transaction details.",
+    "whyFails": "Legacy patterns in places.",
+    "applicable": "Use activity timeline for financial events.",
+    "device": "both",
+    "density": "medium",
+    "style": "clean",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "finance",
+      "mobile"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 56,
+    "name": "WooCommerce",
+    "category": "E-commerce admin",
+    "source": "https://woocommerce.com/",
+    "productType": "sales",
+    "component": "Orders, products, reports",
+    "whyWorks": "Common merchant back-office patterns.",
+    "whyFails": "WordPress admin can feel dated.",
+    "applicable": "Study order/product management expectations.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "utilitarian",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "stock",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 57,
+    "name": "BigCommerce",
+    "category": "E-commerce",
+    "source": "https://www.bigcommerce.com/",
+    "productType": "sales",
+    "component": "Catalog, orders, channels",
+    "whyWorks": "Multi-channel commerce admin concepts.",
+    "whyFails": "Enterprise breadth.",
+    "applicable": "Use channel-aware catalog and order flows.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "professional",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "stock",
+      "settings"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 58,
+    "name": "Amazon Seller Central",
+    "category": "Seller tools",
+    "source": "https://sell.amazon.com/tools",
+    "productType": "sales",
+    "component": "Seller dashboard, inventory, orders",
+    "whyWorks": "Critical reference for marketplace seller operations.",
+    "whyFails": "Often cluttered and stressful.",
+    "applicable": "Learn what to simplify: inventory health, orders, fees.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "marketplace",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "stock",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 59,
+    "name": "eBay Seller Hub",
+    "category": "Seller tools",
+    "source": "https://www.ebay.com/sellercenter",
+    "productType": "sales",
+    "component": "Listings, orders, performance",
+    "whyWorks": "Marketplace listing and seller metrics reference.",
+    "whyFails": "Ad-heavy marketplace environment.",
+    "applicable": "Use listing performance and action queues.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "marketplace",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "tableau",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 60,
+    "name": "Etsy Shop Manager",
+    "category": "Seller tools",
+    "source": "https://www.etsy.com/seller-handbook/article/366470356778",
+    "productType": "sales",
+    "component": "Listings, orders, stats",
+    "whyWorks": "Friendly seller tools for small catalogs.",
+    "whyFails": "Craft marketplace differs from TCG.",
+    "applicable": "Use approachable listing management and stats.",
+    "device": "both",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "mobile",
+      "dashboard"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 61,
+    "name": "Whatnot Seller",
+    "category": "Live commerce",
+    "source": "https://www.whatnot.com/seller",
+    "productType": "mobile",
+    "component": "Live selling, inventory, payouts",
+    "whyWorks": "Mobile-first seller workflows and collectibles context.",
+    "whyFails": "Live commerce not central to ERP.",
+    "applicable": "Study mobile listing and sale preparation.",
+    "device": "mobile",
+    "density": "medium",
+    "style": "modern",
+    "module": "Mobile",
+    "tags": [
+      "mobile",
+      "ventes",
+      "stock"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 62,
+    "name": "eBay Mobile",
+    "category": "Marketplace mobile",
+    "source": "https://pages.ebay.com/mobile/",
+    "productType": "mobile",
+    "component": "Mobile listing and seller actions",
+    "whyWorks": "Proven mobile selling flows.",
+    "whyFails": "Consumer app compromises admin density.",
+    "applicable": "Use mobile quick actions for listing/order updates.",
+    "device": "mobile",
+    "density": "medium",
+    "style": "marketplace",
+    "module": "Mobile",
+    "tags": [
+      "mobile",
+      "ventes",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 63,
+    "name": "Card Ladder",
+    "category": "Collectibles analytics",
+    "source": "https://www.cardladder.com/",
+    "productType": "analytics",
+    "component": "Card price charts, indexes",
+    "whyWorks": "Collectibles-specific charting and portfolio value.",
+    "whyFails": "Subscription analytics focus.",
+    "applicable": "Use market trend cards for Pokémon inventory.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "modern",
+    "module": "Rapports",
+    "tags": [
+      "KPI",
+      "rapports",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 64,
+    "name": "Ludex",
+    "category": "Card scanner",
+    "source": "https://www.ludex.com/",
+    "productType": "mobile",
+    "component": "Card scanning, collection pricing",
+    "whyWorks": "Mobile card recognition and collection valuation.",
+    "whyFails": "Scanner accuracy constraints.",
+    "applicable": "Inspire mobile capture/import workflows.",
+    "device": "mobile",
+    "density": "medium",
+    "style": "modern",
+    "module": "Mobile",
+    "tags": [
+      "mobile",
+      "galerie",
+      "stock"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 65,
+    "name": "CollX",
+    "category": "Card scanner / marketplace",
+    "source": "https://www.collx.app/",
+    "productType": "mobile",
+    "component": "Scan, price, sell cards",
+    "whyWorks": "Great mobile-first collectibles selling loop.",
+    "whyFails": "Marketplace incentives may skew UX.",
+    "applicable": "Use scan-to-inventory and quick pricing flow.",
+    "device": "mobile",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Mobile",
+    "tags": [
+      "mobile",
+      "stock",
+      "ventes"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 66,
+    "name": "ALT",
+    "category": "Collectibles marketplace",
+    "source": "https://www.alt.xyz/",
+    "productType": "analytics",
+    "component": "Portfolio, vault, marketplace",
+    "whyWorks": "Premium collectible finance visual language.",
+    "whyFails": "Luxury style may not fit everyday ERP.",
+    "applicable": "Use portfolio valuation and asset detail inspiration.",
+    "device": "both",
+    "density": "medium",
+    "style": "premium",
+    "module": "Base cartes",
+    "tags": [
+      "cards",
+      "KPI",
+      "galerie"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 67,
+    "name": "PWCC Marketplace",
+    "category": "Collectibles",
+    "source": "https://www.pwccmarketplace.com/",
+    "productType": "marketplace",
+    "component": "Auctions, vault, portfolio",
+    "whyWorks": "High-value card sales and auction flows.",
+    "whyFails": "Auction-specific complexity.",
+    "applicable": "Study price confidence and sale history.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "marketplace",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "cards",
+      "rapports"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 68,
+    "name": "COMC",
+    "category": "Card marketplace",
+    "source": "https://www.comc.com/",
+    "productType": "marketplace",
+    "component": "Card catalog, inventory, listings",
+    "whyWorks": "Operational card consignment and marketplace patterns.",
+    "whyFails": "Dated visuals.",
+    "applicable": "Use bulk card catalog/listing concepts.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "utilitarian",
+    "module": "Base cartes",
+    "tags": [
+      "galerie",
+      "stock",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 69,
+    "name": "Mavin",
+    "category": "Price guide",
+    "source": "https://mavin.io/",
+    "productType": "analytics",
+    "component": "Sold comps, price estimates",
+    "whyWorks": "Simple comp-based valuation workflow.",
+    "whyFails": "Data quality varies.",
+    "applicable": "Use comparable sale cards and confidence warnings.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "utilitarian",
+    "module": "Rapports",
+    "tags": [
+      "KPI",
+      "rapports",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 70,
+    "name": "Bulbapedia TCG",
+    "category": "Card wiki",
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Trading_Card_Game",
+    "productType": "database",
+    "component": "Card/set reference pages",
+    "whyWorks": "Deep structured Pokémon TCG knowledge.",
+    "whyFails": "Wiki UI not admin-focused.",
+    "applicable": "Use taxonomy and set metadata structure.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "community",
+    "module": "Base cartes",
+    "tags": [
+      "galerie",
+      "filtres"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 71,
+    "name": "Scryfall",
+    "category": "Card database",
+    "source": "https://scryfall.com/",
+    "productType": "database",
+    "component": "Advanced card search, galleries",
+    "whyWorks": "Outstanding card search and filter syntax.",
+    "whyFails": "Magic-specific semantics.",
+    "applicable": "Adapt advanced card filters and gallery density.",
+    "device": "both",
+    "density": "medium",
+    "style": "clean",
+    "module": "Base cartes",
+    "tags": [
+      "galerie",
+      "filtres",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 72,
+    "name": "Moxfield",
+    "category": "Collection / deck tool",
+    "source": "https://www.moxfield.com/",
+    "productType": "database",
+    "component": "Deck lists, collection views",
+    "whyWorks": "Strong list/detail/card hybrid views.",
+    "whyFails": "MTG deck focus.",
+    "applicable": "Use collection organization and card hover previews.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "modern",
+    "module": "Base cartes",
+    "tags": [
+      "cards",
+      "tableau",
+      "galerie"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 73,
+    "name": "Notion Calendar",
+    "category": "Productivity",
+    "source": "https://www.notion.com/product/calendar",
+    "productType": "navigation",
+    "component": "Calendar, sidebars, keyboard navigation",
+    "whyWorks": "Elegant information density across time views.",
+    "whyFails": "Calendar not core ERP.",
+    "applicable": "Use compact date/status controls for expenses and orders.",
+    "device": "both",
+    "density": "medium",
+    "style": "minimal",
+    "module": "Navigation",
+    "tags": [
+      "navigation",
+      "mobile",
+      "settings"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 74,
+    "name": "Todoist",
+    "category": "Productivity",
+    "source": "https://todoist.com/",
+    "productType": "onboarding",
+    "component": "Task lists, filters, empty states",
+    "whyWorks": "Excellent lightweight task capture and filters.",
+    "whyFails": "Task metaphor only partial.",
+    "applicable": "Use quick-add and saved filter UX.",
+    "device": "both",
+    "density": "medium",
+    "style": "clean",
+    "module": "Onboarding",
+    "tags": [
+      "onboarding",
+      "filtres",
+      "mobile"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 75,
+    "name": "Slack",
+    "category": "Collaboration",
+    "source": "https://slack.com/",
+    "productType": "navigation",
+    "component": "Sidebar, notifications, onboarding",
+    "whyWorks": "Great unread states and channel navigation.",
+    "whyFails": "Chat layout not ERP.",
+    "applicable": "Use notification badges and workspace switcher patterns.",
+    "device": "both",
+    "density": "medium",
+    "style": "colorful",
+    "module": "Navigation",
+    "tags": [
+      "navigation",
+      "settings",
+      "mobile"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 76,
+    "name": "Discord",
+    "category": "Community",
+    "source": "https://discord.com/",
+    "productType": "navigation",
+    "component": "Server/channel navigation, settings",
+    "whyWorks": "Complex navigation made learnable through persistent rails.",
+    "whyFails": "Gaming style mismatch.",
+    "applicable": "Study multi-level nav and settings hierarchy.",
+    "device": "both",
+    "density": "dense",
+    "style": "dark",
+    "module": "Navigation",
+    "tags": [
+      "navigation",
+      "settings",
+      "mobile"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 77,
+    "name": "Dropbox Dash",
+    "category": "Search",
+    "source": "https://www.dropbox.com/dash",
+    "productType": "navigation",
+    "component": "Universal search, knowledge cards",
+    "whyWorks": "Search-first retrieval across tools.",
+    "whyFails": "Broad search product.",
+    "applicable": "Use global search for cards, orders, customers.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "clean",
+    "module": "Navigation",
+    "tags": [
+      "navigation",
+      "filtres",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 78,
+    "name": "Raycast",
+    "category": "Launcher",
+    "source": "https://www.raycast.com/",
+    "productType": "navigation",
+    "component": "Command palette, extensions",
+    "whyWorks": "Best-in-class command palette ergonomics.",
+    "whyFails": "Power-user bias.",
+    "applicable": "Use command menu for fast ERP actions.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "minimal",
+    "module": "Navigation",
+    "tags": [
+      "navigation",
+      "settings"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 79,
+    "name": "Clerk",
+    "category": "Auth SaaS",
+    "source": "https://clerk.com/",
+    "productType": "settings",
+    "component": "User management, auth settings",
+    "whyWorks": "Clean settings layouts and user tables.",
+    "whyFails": "Developer-oriented.",
+    "applicable": "Use team/member/role management patterns.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "modern",
+    "module": "Paramètres",
+    "tags": [
+      "settings",
+      "tableau",
+      "filtres"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 80,
+    "name": "WorkOS",
+    "category": "Enterprise SaaS",
+    "source": "https://workos.com/",
+    "productType": "settings",
+    "component": "Organization settings, audit logs",
+    "whyWorks": "Excellent enterprise settings and audit log concepts.",
+    "whyFails": "Too technical for SMB users.",
+    "applicable": "Use audit logs and role configuration patterns.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "technical",
+    "module": "Paramètres",
+    "tags": [
+      "settings",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 81,
+    "name": "Auth0",
+    "category": "Identity",
+    "source": "https://auth0.com/",
+    "productType": "settings",
+    "component": "Tenant settings, logs, users",
+    "whyWorks": "Mature settings and log search patterns.",
+    "whyFails": "Developer complexity.",
+    "applicable": "Use searchable logs for sync/import failures.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "technical",
+    "module": "Paramètres",
+    "tags": [
+      "settings",
+      "filtres",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 82,
+    "name": "Sentry",
+    "category": "Monitoring",
+    "source": "https://sentry.io/",
+    "productType": "dashboard",
+    "component": "Issue detail, performance, alerts",
+    "whyWorks": "Excellent issue triage and detail pages.",
+    "whyFails": "Engineering-oriented.",
+    "applicable": "Use issue triage patterns for failed imports/sync.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "technical",
+    "module": "Fiches détail",
+    "tags": [
+      "fiches détail",
+      "tableau",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 83,
+    "name": "Datadog",
+    "category": "Monitoring",
+    "source": "https://www.datadoghq.com/",
+    "productType": "dashboard",
+    "component": "Dashboards, monitors, logs",
+    "whyWorks": "Powerful observability dashboards and filters.",
+    "whyFails": "Very complex.",
+    "applicable": "Use health dashboards for integrations.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "technical",
+    "module": "Rapports",
+    "tags": [
+      "dashboard",
+      "rapports",
+      "filtres"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 84,
+    "name": "Segment",
+    "category": "Data platform",
+    "source": "https://segment.com/",
+    "productType": "settings",
+    "component": "Sources, destinations, debugger",
+    "whyWorks": "Clear connection/integration status patterns.",
+    "whyFails": "Data platform domain.",
+    "applicable": "Use integration cards and connection status.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "technical",
+    "module": "Paramètres",
+    "tags": [
+      "settings",
+      "cards",
+      "états vides"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 85,
+    "name": "Zapier",
+    "category": "Automation",
+    "source": "https://zapier.com/",
+    "productType": "onboarding",
+    "component": "Automation builder, app directory",
+    "whyWorks": "Excellent integration marketplace and guided setup.",
+    "whyFails": "Automation can hide failure modes.",
+    "applicable": "Use app connection cards and step-by-step setup.",
+    "device": "both",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Onboarding",
+    "tags": [
+      "onboarding",
+      "settings",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 86,
+    "name": "Make",
+    "category": "Automation",
+    "source": "https://www.make.com/",
+    "productType": "onboarding",
+    "component": "Scenario builder, visual automations",
+    "whyWorks": "Visual workflow canvas for integrations.",
+    "whyFails": "Canvas may be overkill.",
+    "applicable": "Use visual import/sync flow summaries.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "colorful",
+    "module": "Onboarding",
+    "tags": [
+      "onboarding",
+      "settings"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 87,
+    "name": "Trello",
+    "category": "Kanban",
+    "source": "https://trello.com/",
+    "productType": "cards",
+    "component": "Boards, cards, labels",
+    "whyWorks": "Simple card-based workflow everyone understands.",
+    "whyFails": "Too simplistic for ERP records.",
+    "applicable": "Use kanban for order/status pipelines.",
+    "device": "both",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Ventes",
+    "tags": [
+      "cards",
+      "ventes",
+      "mobile"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 88,
+    "name": "Basecamp",
+    "category": "Project management",
+    "source": "https://basecamp.com/",
+    "productType": "navigation",
+    "component": "Home, projects, simple modules",
+    "whyWorks": "Calm navigation and low cognitive load.",
+    "whyFails": "May be too sparse for dense ERP.",
+    "applicable": "Use calm home page and module cards.",
+    "device": "both",
+    "density": "low",
+    "style": "calm",
+    "module": "Dashboard",
+    "tags": [
+      "dashboard",
+      "navigation",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 89,
+    "name": "FreshBooks",
+    "category": "Accounting",
+    "source": "https://www.freshbooks.com/",
+    "productType": "expenses",
+    "component": "Invoices, expenses, time tracking",
+    "whyWorks": "Friendly SMB finance with clear empty states.",
+    "whyFails": "Less inventory depth.",
+    "applicable": "Use approachable expense/invoice flows.",
+    "device": "both",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Dépenses",
+    "tags": [
+      "dépenses",
+      "ventes",
+      "états vides"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 90,
+    "name": "Wave Accounting",
+    "category": "Accounting",
+    "source": "https://www.waveapps.com/",
+    "productType": "expenses",
+    "component": "Invoices, accounting dashboard",
+    "whyWorks": "Small-business simplicity and clear setup.",
+    "whyFails": "Limited advanced workflows.",
+    "applicable": "Use simplified finance onboarding and empty states.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "clean",
+    "module": "Onboarding",
+    "tags": [
+      "onboarding",
+      "finance",
+      "états vides"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 91,
+    "name": "Expensify",
+    "category": "Expenses",
+    "source": "https://www.expensify.com/",
+    "productType": "expenses",
+    "component": "Receipt capture, approvals",
+    "whyWorks": "Strong mobile receipt and approval flows.",
+    "whyFails": "Chat-like UI can polarize.",
+    "applicable": "Use receipt capture and reimbursement statuses.",
+    "device": "both",
+    "density": "medium",
+    "style": "modern",
+    "module": "Dépenses",
+    "tags": [
+      "dépenses",
+      "mobile",
+      "settings"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 92,
+    "name": "Spendesk",
+    "category": "Spend management",
+    "source": "https://www.spendesk.com/",
+    "productType": "expenses",
+    "component": "Budgets, cards, invoices",
+    "whyWorks": "European spend management patterns.",
+    "whyFails": "Finance terminology.",
+    "applicable": "Use approval center and budget cards.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "modern",
+    "module": "Dépenses",
+    "tags": [
+      "dépenses",
+      "KPI",
+      "settings"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 93,
+    "name": "Swile",
+    "category": "Employee spend",
+    "source": "https://www.swile.co/",
+    "productType": "mobile",
+    "component": "Cards, benefits, mobile finance",
+    "whyWorks": "Polished mobile financial cards and simple actions.",
+    "whyFails": "HR benefits domain.",
+    "applicable": "Use card visuals and mobile quick actions.",
+    "device": "mobile",
+    "density": "medium",
+    "style": "playful",
+    "module": "Mobile",
+    "tags": [
+      "mobile",
+      "cards",
+      "finance"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 94,
+    "name": "Lemon Squeezy",
+    "category": "Merchant of record",
+    "source": "https://www.lemonsqueezy.com/",
+    "productType": "sales",
+    "component": "Sales dashboard, products, payouts",
+    "whyWorks": "Modern seller dashboard with approachable metrics.",
+    "whyFails": "Digital goods domain.",
+    "applicable": "Use revenue cards and product sales summaries.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "modern",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "dashboard",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 95,
+    "name": "Paddle",
+    "category": "Payments SaaS",
+    "source": "https://www.paddle.com/",
+    "productType": "sales",
+    "component": "Revenue dashboard, customers, invoices",
+    "whyWorks": "Good SaaS revenue and customer detail patterns.",
+    "whyFails": "SaaS subscription focus.",
+    "applicable": "Use customer/order financial detail layout.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "clean",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "finance",
+      "rapports"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 96,
+    "name": "Chargebee",
+    "category": "Subscription billing",
+    "source": "https://www.chargebee.com/",
+    "productType": "sales",
+    "component": "Billing, invoices, revenue reports",
+    "whyWorks": "Mature billing object model and reports.",
+    "whyFails": "Subscription concepts may be irrelevant.",
+    "applicable": "Use invoice and customer lifecycle states.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "professional",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "rapports",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 97,
+    "name": "Plausible Analytics",
+    "category": "Analytics",
+    "source": "https://plausible.io/",
+    "productType": "reports",
+    "component": "Simple analytics dashboard",
+    "whyWorks": "Excellent minimal KPI dashboard without clutter.",
+    "whyFails": "Limited operational depth.",
+    "applicable": "Use simple top-line metrics page.",
+    "device": "desktop",
+    "density": "low",
+    "style": "minimal",
+    "module": "Dashboard",
+    "tags": [
+      "dashboard",
+      "KPI",
+      "rapports"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 98,
+    "name": "PostHog",
+    "category": "Analytics",
+    "source": "https://posthog.com/",
+    "productType": "reports",
+    "component": "Product analytics, feature flags",
+    "whyWorks": "Open-source analytics with powerful filters.",
+    "whyFails": "Developer terminology.",
+    "applicable": "Use filter builder and dashboard customization ideas.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "technical",
+    "module": "Rapports",
+    "tags": [
+      "rapports",
+      "filtres",
+      "dashboard"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 99,
+    "name": "Grafana",
+    "category": "Analytics / monitoring",
+    "source": "https://grafana.com/",
+    "productType": "reports",
+    "component": "Dashboards, panels, alerts",
+    "whyWorks": "Flexible dashboard panels and alert states.",
+    "whyFails": "Technical setup complexity.",
+    "applicable": "Use configurable report panels carefully.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "technical",
+    "module": "Rapports",
+    "tags": [
+      "rapports",
+      "dashboard",
+      "KPI"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 100,
+    "name": "OpenBB",
+    "category": "Finance analytics",
+    "source": "https://openbb.co/",
+    "productType": "analytics",
+    "component": "Financial terminal, charts",
+    "whyWorks": "Dense finance analytics and market views.",
+    "whyFails": "Too expert for merchants.",
+    "applicable": "Use advanced mode for valuation analytics.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "technical",
+    "module": "Rapports",
+    "tags": [
+      "rapports",
+      "KPI",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 101,
+    "name": "Robinhood Legend",
+    "category": "Trading",
+    "source": "https://robinhood.com/legend/",
+    "productType": "analytics",
+    "component": "Trading dashboard, watchlists",
+    "whyWorks": "Modern data-dense cards and charts.",
+    "whyFails": "Trading context can encourage over-animation.",
+    "applicable": "Use watchlist-like price monitoring for cards.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "modern",
+    "module": "Rapports",
+    "tags": [
+      "KPI",
+      "cards",
+      "dashboard"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 102,
+    "name": "Coinbase Advanced",
+    "category": "Finance / crypto",
+    "source": "https://www.coinbase.com/advanced-trade",
+    "productType": "analytics",
+    "component": "Portfolio, order book, charts",
+    "whyWorks": "Clear separation of portfolio, chart, orders.",
+    "whyFails": "Crypto/trading risk aesthetics.",
+    "applicable": "Use portfolio and asset detail structures.",
+    "device": "desktop",
+    "density": "dense",
+    "style": "dark",
+    "module": "Base cartes",
+    "tags": [
+      "cards",
+      "KPI",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 103,
+    "name": "Nubank Business",
+    "category": "Banking",
+    "source": "https://international.nubank.com.br/",
+    "productType": "mobile",
+    "component": "Mobile banking cards",
+    "whyWorks": "Excellent mobile banking simplicity and brand clarity.",
+    "whyFails": "Consumer banking focus.",
+    "applicable": "Use minimal mobile financial summaries.",
+    "device": "mobile",
+    "density": "low",
+    "style": "modern",
+    "module": "Mobile",
+    "tags": [
+      "mobile",
+      "finance",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 104,
+    "name": "Monzo Business",
+    "category": "Banking",
+    "source": "https://monzo.com/business/",
+    "productType": "mobile",
+    "component": "Pots, cards, transactions",
+    "whyWorks": "Friendly banking with clear categorization.",
+    "whyFails": "Bank-specific functionality.",
+    "applicable": "Use spending categories and transaction clarity.",
+    "device": "mobile",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Dépenses",
+    "tags": [
+      "mobile",
+      "dépenses",
+      "finance"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 105,
+    "name": "N26 Business",
+    "category": "Banking",
+    "source": "https://n26.com/en-eu/business-account",
+    "productType": "mobile",
+    "component": "Mobile account, spaces",
+    "whyWorks": "Simple mobile account organization.",
+    "whyFails": "Less operational depth.",
+    "applicable": "Use mobile card/account summaries.",
+    "device": "mobile",
+    "density": "low",
+    "style": "minimal",
+    "module": "Mobile",
+    "tags": [
+      "mobile",
+      "finance",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 106,
+    "name": "Back Market Seller Portal",
+    "category": "Marketplace seller",
+    "source": "https://www.backmarket.com/en-us/sellers",
+    "productType": "sales",
+    "component": "Seller marketplace operations",
+    "whyWorks": "Marketplace seller expectations and quality metrics.",
+    "whyFails": "Not card-specific.",
+    "applicable": "Use seller health and quality KPI concepts.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "marketplace",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "KPI",
+      "tableau"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 107,
+    "name": "Faire Brand Portal",
+    "category": "Wholesale marketplace",
+    "source": "https://www.faire.com/",
+    "productType": "sales",
+    "component": "Wholesale orders, catalog, analytics",
+    "whyWorks": "Good wholesale catalog/order mental model.",
+    "whyFails": "B2B marketplace specifics.",
+    "applicable": "Use catalog and reorder patterns.",
+    "device": "both",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Ventes",
+    "tags": [
+      "ventes",
+      "stock",
+      "mobile"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 108,
+    "name": "Faire App",
+    "category": "Wholesale mobile",
+    "source": "https://www.faire.com/mobile",
+    "productType": "mobile",
+    "component": "Mobile wholesale buying/selling",
+    "whyWorks": "Mobile commerce admin inspiration.",
+    "whyFails": "Buyer-oriented screens.",
+    "applicable": "Use mobile catalog browsing patterns.",
+    "device": "mobile",
+    "density": "medium",
+    "style": "friendly",
+    "module": "Mobile",
+    "tags": [
+      "mobile",
+      "galerie",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 109,
+    "name": "Canva",
+    "category": "Design SaaS",
+    "source": "https://www.canva.com/",
+    "productType": "gallery",
+    "component": "Template gallery, onboarding",
+    "whyWorks": "Excellent gallery browsing and template onboarding.",
+    "whyFails": "Creative style can be too broad.",
+    "applicable": "Use gallery cards for card database templates.",
+    "device": "both",
+    "density": "medium",
+    "style": "colorful",
+    "module": "Base cartes",
+    "tags": [
+      "galerie",
+      "onboarding",
+      "cards"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  },
+  {
+    "id": 110,
+    "name": "Framer",
+    "category": "Website builder",
+    "source": "https://www.framer.com/",
+    "productType": "gallery",
+    "component": "Project gallery, settings panels",
+    "whyWorks": "Beautiful cards and inspector panels.",
+    "whyFails": "Creator-tool metaphors.",
+    "applicable": "Use polished card grids and side inspectors.",
+    "device": "desktop",
+    "density": "medium",
+    "style": "modern",
+    "module": "Base cartes",
+    "tags": [
+      "galerie",
+      "cards",
+      "settings"
+    ],
+    "visual": {
+      "type": "placeholder",
+      "status": "no embedded capture",
+      "note": "Capture non intégrée: utiliser le lien source pour vérifier les visuels publics et éviter le hotlink fragile."
+    }
+  }
+]
