@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ERP Climax — UI Research Gallery</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero">
+<nav>
+<strong>ERP Climax UI Research</strong>
+<a href="README.md">README</a>
+<a href="UI_FINDINGS.md">Findings</a>
+<a href="UI_GAPS.md">Gaps</a>
+<a href="references.json">JSON</a>
+</nav>
+<section>
+<p class="eyebrow">Dossier visuel consultable sans build</p>
+<h1>Galerie de références SaaS, ERP, commerce, finance, inventaire, analytics et mobile.</h1>
+<p>110 références réelles avec liens sources, tags, usages observés, risques et pistes applicables à ERP Climax. Les miniatures sont volontairement des placeholders quand aucune capture publique robuste n’est embarquée.</p>
+<div class="stats">
+<span>
+<b id="count">110</b> références</span>
+<span>13 sections</span>
+<span>0 dépendance</span>
+</div>
+</section>
+</header>
+<main>
+<aside class="filters">
+<h2>Filtres</h2>
+<label>Recherche<input id="q" placeholder="Stripe, stock, mobile…">
+</label>
+<label>Produit<select id="productType">
+<option value="">Tous</option>
+</select>
+</label>
+<label>Composant<select id="component">
+<option value="">Tous</option>
+</select>
+</label>
+<label>Desktop / mobile<select id="device">
+<option value="">Tous</option>
+</select>
+</label>
+<label>Densité<select id="density">
+<option value="">Toutes</option>
+</select>
+</label>
+<label>Style<select id="style">
+<option value="">Tous</option>
+</select>
+</label>
+<label>Module ERP<select id="module">
+<option value="">Tous</option>
+</select>
+</label>
+<button id="reset">Réinitialiser</button>
+<p class="note">Astuce: ouvrez les liens sources pour vérifier les captures récentes. Le dossier évite le hotlink fragile.</p>
+</aside>
+<section class="content">
+<div class="tabs" id="tabs">
+</div>
+<div class="toolbar">
+<h2 id="sectionTitle">Toutes les références</h2>
+<span id="resultCount">
+</span>
+</div>
+<div class="grid" id="grid">
+</div>
+</section>
+</main>
+<template id="cardTemplate">
+<article class="card">
+<a class="thumb" target="_blank" rel="noreferrer">
+<span class="badge">
+</span>
+<strong>
+</strong>
+<small>
+</small>
+</a>
+<div class="body">
+<div class="meta">
+</div>
+<h3>
+</h3>
+<p class="component">
+</p>
+<details open>
+<summary>Pourquoi c’est réussi</summary>
+<p class="works">
+</p>
+</details>
+<details>
+<summary>Pourquoi cela peut échouer</summary>
+<p class="fails">
+</p>
+</details>
+<details>
+<summary>Applicable à ERP Climax</summary>
+<p class="apply">
+</p>
+</details>
+<div class="tags">
+</div>
+<a class="source" target="_blank" rel="noreferrer">Source ↗</a>
+</div>
+</article>
+</template>
+<script src="references-data.js">
+</script>
+<script src="app.js">
+</script>
+</body>
+</html>
