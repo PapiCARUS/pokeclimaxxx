@@ -312,3 +312,9 @@ Cette direction répond directement au problème identifié : l’interface actu
 13. Statuts métiers officiels.
 14. Exports prioritaires.
 15. Processus de validation design avant code.
+
+## Addendum — Correction suite au retour sur les références visuelles
+
+La recherche doit être utilisée avec `UI_VISUAL_REFERENCE_BOARD.md`, qui sert de moodboard visuel opérationnel. Ce document ajoute des liens vers des captures, démos, galeries et pages produit à ouvrir pour observer les interfaces réelles, ainsi que des mini-wireframes desktop et mobile pour orienter la discussion design.
+
+Nouvelle règle de validation : avant de coder une refonte, produire un board de captures réelles et valider au moins une direction visuelle avec exemples visibles, pas seulement des recommandations textuelles.

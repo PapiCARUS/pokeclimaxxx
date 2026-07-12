@@ -746,3 +746,9 @@ Distinction utilisée :
 - Donner une identité visuelle inspirée commerce/finance/cartes : sérieuse, compacte, précise, mais avec des touches collection.
 - Éviter les grands blocs vides, les cartes KPI décoratives et les gradients IA.
 - Faire du mobile une app séparée centrée sur consultation rapide, scan, stock, ventes, alertes et actions fréquentes.
+
+## Addendum — Références visuelles
+
+La recherche textuelle doit être complétée par un moodboard visuel. Le document `UI_VISUAL_REFERENCE_BOARD.md` liste des pages produit, galeries, démos et dépôts à ouvrir pour observer concrètement les écrans, captures, composants, densités et layouts avant de coder.
+
+Décision mise à jour : aucune refonte UI ne devrait démarrer avant validation d’un board visuel de captures réelles et de wireframes Climax dérivés de ces références.
