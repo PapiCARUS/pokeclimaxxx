@@ -1,12 +1,27 @@
 # ERP Climax — dossier de recherche UI
 
-Ce dossier contient un mini-site statique consultable dans GitHub ou localement.
+Ce dossier contient un mini-site statique consultable dans GitHub, localement ou via GitHub Pages.
 
-## Consultation
+## Consultation locale
 
 - Ouvrir `docs/ui-research/index.html` directement dans un navigateur.
 - Aucun build, serveur, package manager ou dépendance n'est nécessaire.
 - Les données structurées sont dans `references.json` et dupliquées dans `references-data.js` pour que l'ouverture locale via `file://` fonctionne sans blocage CORS.
+
+## Publication GitHub Pages
+
+URL attendue une fois GitHub Pages activé : `https://<owner>.github.io/<repository>/`.
+
+Le workflow dédié `.github/workflows/ui-research-pages.yml` publie uniquement le contenu de `docs/ui-research/`. Comme l'artefact Pages a pour racine ce dossier, les chemins relatifs actuels (`styles.css`, `references-data.js`, `app.js`, `references.json`) restent compatibles avec l'URL de projet GitHub Pages.
+
+### Procédure d'activation
+
+1. Merger cette branche dans `main`.
+2. Dans GitHub, ouvrir `Settings → Pages`.
+3. Sélectionner `Source → GitHub Actions`.
+4. Relancer le workflow manuellement si le premier déploiement ne démarre pas automatiquement.
+
+Manipulation manuelle restante : `Settings → Pages → Source → GitHub Actions`.
 
 ## Contenu
 
